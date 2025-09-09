@@ -18,3 +18,12 @@ touch requirement.txt
 
 
 echo "Directory and files are created successfully"
+
+
+# # ---------- Git add & commit ----------
+# git add .
+
+# # Commit with default message
+# git commit -m "Add folder structure and initial files"
+
+# echo "All files added and committed to Git successfully!"
